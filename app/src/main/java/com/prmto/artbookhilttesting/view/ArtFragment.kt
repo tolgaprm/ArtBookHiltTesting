@@ -14,6 +14,7 @@ import com.prmto.artbookhilttesting.adapter.ArtRecyclerAdapter
 import com.prmto.artbookhilttesting.databinding.FragmentArtsBinding
 import com.prmto.artbookhilttesting.viewmodel.ArtViewModel
 import dagger.hilt.android.AndroidEntryPoint
+import dagger.hilt.android.EarlyEntryPoint
 import javax.inject.Inject
 
 @AndroidEntryPoint

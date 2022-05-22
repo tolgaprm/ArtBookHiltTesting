@@ -16,6 +16,7 @@ import com.prmto.artbookhilttesting.databinding.FragmentArtDetailsBinding
 import com.prmto.artbookhilttesting.util.Resource
 import com.prmto.artbookhilttesting.viewmodel.ArtViewModel
 import dagger.hilt.android.AndroidEntryPoint
+import dagger.hilt.android.EarlyEntryPoint
 import javax.inject.Inject
 
 @AndroidEntryPoint
